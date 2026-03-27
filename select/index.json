@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "宗教",
+  "base_artist": "毛皮のマリーズ",
+  "createdAt": "2026-03-27T14:01:17.041021Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "宗教",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/01_宗教_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "宗教",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/02_宗教_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "宗教",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/03_宗教_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "宗教",
+      "artist": "Shiina Ringo",
+      "has_synced": true,
+      "path": "select/04_宗教_Shiina_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "宗教",
+      "artist": "椞名林檞",
+      "has_synced": true,
+      "path": "select/05_宗教_椞名林檞.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "宗教",
+      "artist": "Ringo Shiina",
+      "has_synced": true,
+      "path": "select/06_宗教_Ringo_Shiina.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "宗教",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/07_宗教_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "宗教 - Shuukyou -Religion-",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/08_宗教_-_Shuukyou_-Religion-_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "宗教 (Shūkyō)",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/09_宗教_(Shūkyō)_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "宗教",
+      "artist": "毛皮のマリーズ",
+      "has_synced": false,
+      "path": "select/pl_01_宗教_毛皮のマリーズ.txt"
+    }
+  ]
+}
